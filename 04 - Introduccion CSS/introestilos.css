@@ -1,0 +1,57 @@
+/* Estilos para colores */
+
+.colores{
+    color: red;
+}
+
+.color-hexadecimal {
+    color: #5E6572;
+}
+
+.color-rgb {
+    color: rgb(100,59,100);
+}
+
+
+.color-rgba {
+    color: rgba(80,100,80,0.7);
+}
+
+/* Fondos */
+
+.fondo {
+    background-color: cornflowerblue;
+    background-image: url("/03-Multimedia/tlou.webp");
+    background-position: left center;
+}
+
+.fondo-interno{
+    background-color: cornflowerblue;
+    background-image: url("https://i.pinimg.com/564x/d1/64/08/d1640814ffd53702480fc1b84575cc9a.jpg");
+    background-position: top center;
+}
+
+/* Tamannos */
+
+.ancho{
+    background-color: blueviolet;
+    width: 100px;
+}
+
+.alto{
+    background-color: aquamarine;
+    height: 200px;
+    
+}
+
+.tarjeta{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #C95D63;
+    border-width: 4px;
+    padding: 10px 20px;
+    margin: 90px;
+}
+.descripcion{
+    text-align: center;
+}
