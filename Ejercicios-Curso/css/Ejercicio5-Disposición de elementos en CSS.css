@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.Galeria {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+.Imagen {
+    
+    width: 300px;
+}
