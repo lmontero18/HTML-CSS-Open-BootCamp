@@ -18,7 +18,11 @@ html{
     color: white;
     display: grid;
     justify-content: center;
-    text-shadow: 0 10px 15px #000000;
+    
+}
+.holamundo:hover{
+    text-shadow: 0 0 20px black;
+    transition: 0.3s;
 }
 
 
