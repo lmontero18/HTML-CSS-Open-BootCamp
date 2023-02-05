@@ -1,0 +1,22 @@
+.hover-over{
+    height: 100px;
+    width: 100px;
+}
+
+.hover-over::before{
+    content: "Pasa por encima";
+}
+.hover-over:hover{
+    background-color: green;
+    color: white;
+}
+.hover-over:hover::before{
+    content: "Hecho";
+    
+}
+
+
+
+
+
+
